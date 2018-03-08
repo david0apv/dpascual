@@ -1,0 +1,54 @@
+div.center {
+	text-align: center;
+}
+
+div.title1 {
+	font-size: 2em;
+}
+
+div.title2 {
+        font-size: 1em;
+}
+
+.italic{
+	font-style: italic;
+}
+
+body{
+	background-color: #748BA7;
+}
+
+.top_header{
+	background-color: #2345AF;
+	color: White;
+	padding: 5px;
+}
+
+.content_a{
+	background-color: #E9FFFF;
+	padding: 1em;
+	margin: 2em;
+}
+
+.content_b{
+	background-color: #FFE7E7;
+	padding: 1em;
+	margin: 2em;
+}
+
+.content_c{
+	background-color: White;
+	padding: 1em;
+	margin: 2em;
+}
+
+.content_error{
+	text-align: center;
+	background-color: White;
+	padding: 1em;
+	margin: 2em;
+}
+
+.bottom{
+	background-color: lightblue;
+}
